@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance of the kingdome of England to the Universities of Oxford and Cambridge. With a review of the Covenant. By way of quære. In satisfaction to all those who desire thorow information of the danger thereof.</title>
+         </titleStmt>
+         <extent>Approx. 57KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56992</idno><idno type="EEBO-CITATION">99832122</idno>
+  <idno type="VID">36593</idno>
+  <idno type="EEBO-PROQUEST">2240942040</idno>
+  
+            <idno type="STC">Wing R1005</idno>
+            <idno type="STC">ESTC R220730</idno>
+            <idno type="PROQUEST">99832122</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832122e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36593)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2056:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance of the kingdome of England to the Universities of Oxford and Cambridge. With a review of the Covenant. By way of quære. In satisfaction to all those who desire thorow information of the danger thereof.</title>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the publique good,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Urging the Universities to declare themselves opposed to the Solemn League and Covenant. Cf. Madan.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643). --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36593:1"/>
+            <p>THE REMONSTRANCE OF THE KINGDOME OF ENGLAND, <hi>TO THE ƲNIVERSITJES OF</hi> OXFORD <hi>AND</hi> CAMBRIDGE.</p>
+            <p>With A Review of the COVENANT.</p>
+            <p>By way of Quaere.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>N SATISFACTION TO ALL those who desire thorow information of the Danger thereof.</p>
+            <p>Printed for the publique good. 1647.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:36593:2"/>
+            <pb facs="tcp:36593:2"/>
+            <head>THE REMONSTRANCE OF THE Kingdome of ENGLAND to the Vniversities of OXFORD and CAMERIDGE, Concerning the late Covenant, which is now pressing upon the Kingdome.</head>
+            <opener>Sheweth,</opener>
+            <p>THat the Eyes of the whole land are now fixed upon you, to behold your demeanour in this action, which therefore is like to prove the forge, wherein you shall worke out to your selves either a lasting fame, or infamy; that the example of your constancy in the deniall of this Covenant will throughly confirme both the consciences and outrages of those weake ones, who are almost yeilding to the threats and pretences of reason, wherewith this Oath is to be urged.</p>
+            <p>That the subtile enemy doth already take advantage of your silence, to noise abroad your willingnesse to take this Oath when it shall be tendred: so that many deluded ones amongst us have subscribed to the rumour of your example: and those of us who out of a well-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rounded Conscience have refused it, do suffer under the guilt of obstinate and ignorant malignants, since we dare deny that, which, is said, a whole University doth assent unto.</p>
+            <p>And therefore, as you will answer before GOD the losse of those weake soules, who by the aforesaid false ru<g ref="char:EOLhyphen"/>mour may be seduced, &amp; as you will answer before His Maje<g ref="char:EOLhyphen"/>sty (whom we doubt not but God will once againe set in the Throne of his Fathers) the losse of our Estates and liberties, which is certaine, if we shall deny this Oath, when it may be said that you received it; we conjure you, that you will, (both t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> confirme our Consciences, and also to take off from us (&amp; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om every single man of your selves too) the envy and dan<g ref="char:EOLhyphen"/>ger
+<pb facs="tcp:36593:3"/> of particular refusals) make a timely and generall Decla<g ref="char:EOLhyphen"/>ration of your unanimous dissent from the taking of this oath, so derogatory to the Honour of God, so destructive to the peace of the Church, and so prejudiciall, in the Consequence, to His Majesties Just Rights and Power: And we shall ever pray for your flourishing estate.</p>
+            <p>
+               <hi>You are farther requested, that this our Re<g ref="char:EOLhyphen"/>monstrance be read in your Chappels, and (so far as without danger it may) be imparted to the rest of the Ʋniversity.</hi>
+            </p>
+            <p>To the Right Worshipfull the Reverend Deane of <hi>Christ-Church</hi> these <hi>present.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36593:3"/>
+            <head>A WARNING For all the COUNTIES of ENGLAND To awake speedily out of their dreames, and apply themselves to all just meanes for the recoverie and preservation of their Liberties, because of a present de<g ref="char:EOLhyphen"/>signe to expell the most faithfull out of their House of Commons, and to frustrate all the Countries good Elections, that so the Malignant party may bring the free Commons of <hi>England</hi> now (after all their bloudy sufferings) into cruel Thraldome, and make themselves Lords over them.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JER. 5.1, 2.</hi>
+                  </bibl>
+                  <p>Run to and thorough the streets in <hi>Jerusalem,</hi> [as it may be truly said of <hi>Westminster</hi> and <hi>London</hi>] and see now, and know, and seeke in the broad places thereof, if ye can finde a man, if there be any that exe<g ref="char:EOLhyphen"/>cuteth judgment, that seeketh the truth, and I will pardon it.</p>
+                  <p>And though they sweare the Lord liveth, surely they sweare falsly.</p>
+                  <bibl>
+                     <hi>HOSEA 10.4.</hi>
+                  </bibl>
+                  <p>They have spoken words, swearing falsly, in making a Covenant.</p>
+               </q>
+            </epigraph>
+            <p>WEE the free Commoners of <hi>England,</hi> have been (for the ge<g ref="char:EOLhyphen"/>nerall part) like Merchant-Adventurers, who according to the Poet, <hi>Per varios casus, per tot discrimina rerum,</hi> &amp;c. through many great difficulties and dangers do saile into far Countries, with great costs and charges to fetch home rich Treasures, the which when they have gotten, they do return ther with joyfully: and yet upon their own Coasts, or in the very harbour at home, through the negligence, or ambi<g ref="char:EOLhyphen"/>tion, pride, covetousnesse, falshood, or contention of the Ship-Master, or his Mariners, do suffer wrack, and lose the fruit of all their costs, Adven<g ref="char:EOLhyphen"/>tures, and travels.</p>
+            <pb n="2" facs="tcp:36593:4"/>
+            <p>Have not we done the like to fetch home those invaluable treasures of Liberty and Justice, which were carryed so far remote (as almost past re<g ref="char:EOLhyphen"/>covery) by these two notorious State-Robbers, boundlesse-Prerogative and predominant Tyrannie; and yet now after all our expence of men, time, trade, and monies, with innumerable difficulties, &amp; dangers over past we are thro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh the pride, ambition, covetousnesse, treachery, and conten<g ref="char:EOLhyphen"/>tion of our Ship-Masters, and their Ministers (unl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse wee our selv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he free Commons of <hi>England,</hi> do timeously stand up and lay hold upon the tackling) like to perish utterly and lose the pretious Treasures for which we have adventured so far, and paid so deare.</p>
+            <p>For now though the war be ended, and that there are none in armes to abridg us of our liberties, or to turn back the s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ord of Justice, &amp; that according to the Protestation Vow; Covenant, &amp; manifold D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clarations, we look for judgment, but behold more abundan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oppressio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; for righte<g ref="char:EOLhyphen"/>ousness<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but behold a more hiddeous cry, a c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of millions of Widdowes, fatherlesse, and friendless<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, of maymed, and dismembred, of plundered, se<g ref="char:EOLhyphen"/>questred, and destroyed, of unjustl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> imprisoned, and oppressed, of despis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d persecuted, and hated, for truth and conscience sake, of defrauded, and de<g ref="char:EOLhyphen"/>ceived, of des<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rving men; and Souldiers sleighted, rejected, and unpaid, <hi>cum multis, aliis quos jam prescribere longum est;</hi> and the eares that should heare are deafe, and the eyes that should pitty are blinde, verifying the old Proverb; who are more blind then they that will not see?</p>
+            <p>And are not certain men of <hi>Beliall,</hi> whom we have unhappily chosen and intrusted to man, and mannage forth this great Bark of our State, for the regaining of those rich Treasures (for which wee have expended so much pretious bloud, and so much inestimable wealth) now studying and endeavouring after so many stormes and tempests, rockes and sands esca<g ref="char:EOLhyphen"/>ped, to deprive us of all the fruit and benefit of our Adventur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? And a<g ref="char:EOLhyphen"/>mong many of their treacherous devices, this which I shall here discover is not the least, or most inconsiderable, to wit.</p>
+            <p>To enforce the taking of (the Scotch hooke, I meane) the Covenant, upon all the Members of the House of Commons, without resp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to ten<g ref="char:EOLhyphen"/>der consciences, and in case of refusall, to suspend or expel, as if the Cove<g ref="char:EOLhyphen"/>nant were essentiall, or that without i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, a man could not bee capable to serve his Country in the Parliament, using it no o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herwayes, then as an <hi>index ex <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urgatorious,</hi> to expunge out of the House the most uprig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t &amp; conscien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious, serviceable, &amp; faithfull to their countries, contrary to the first end or enjoyning it, which was to discover the malignant party, &amp; not to drive away the approved and faithful; but so they do, tha <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey may pack to themselves (as Chea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es do Cards) a set of Memb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs for their own Game; the which subtil and serpentine course, so little seen or noti<g ref="char:EOLhyphen"/>fyed
+<pb n="3" facs="tcp:36593:4"/> abroad, will certainly) wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vention) ruine us utterly; For they doe but bind themselves by oathes to work wickednesse, and as the <hi>Psalmist</hi> saith, <hi>Psalm.</hi> 49. <hi>frame mischiefe for a Law. And we may most just<g ref="char:EOLhyphen"/>ly cry, A consederacy, a confederacy, a Plot, a Plot, a Plot co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sisting of a three<g ref="char:EOLhyphen"/>fold not and therefore not easily broken) of Prerogative Lords, Pretbyterian Commons, and Mal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnant Citizens. But here is comfort, The Lord shall bee our Sanctuary,</hi> Esa. 8.14. <hi>and he w ll diappoint their devices, so that they shall not be able to accomplish their enterprize, for their councels shall be car<g ref="char:EOLhyphen"/>ried head-long.</hi> Iob. 5.13, 14.</p>
+            <p>
+               <hi>Awake, awake, therefore O ye free Commons of England, and let not your servants ride, while ye your selves are by them tran pled under foot. Can the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e be a g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eater presumption, or a more intollerable abuse then this, to trample up<g ref="char:EOLhyphen"/>on your native rights and immunities in such a contemptuous sort before your faces? for what availeth the free-men of England, to have the power of elect<g ref="char:EOLhyphen"/>ing their own M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mbers for Parliaments, if a few presumptuous person (their fellowes, yea their servants (more subtill (though not more honest) then the rest may by any strange new found Engine, expel and extrude their Trustees the Commons House, without any just cause: this is to l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the people ch ose, &amp; then they will cull, and this they are now about, if they can attain unto it.</hi>
+            </p>
+            <p>If it bee not a plot, to drive the most faithfull and serviceable for the Countries <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, why is the Covenant now in the time of no hostility, and of lesse cause of jealousie, more zealously and violently pressed &amp; imposed in the House of Commons, then ever it was in the worst and most peril<g ref="char:EOLhyphen"/>lous times, there is now (blessed be God) no such cause amongst them (as was then) of distrusts and feares, unlesse it be by treacherous and Lord<g ref="char:EOLhyphen"/>like spirits, least they should be detected and anticipated in their treaso<g ref="char:EOLhyphen"/>nable &amp; treacherous designes, and disappointed of their imperiours rule, &amp; domineering power over their fellow Commoners, &amp; why must those persons, whose fidelity hath been sufficiently approved in the sight of the whole world, be now suspended and expelled, if they shall refuse the ta<g ref="char:EOLhyphen"/>king of this make-bate Covenant, although they have alwayes refused it &amp; would never take it, in the time of greatest diffidence, extremity, &amp; doubt, &amp; yet were then never suspected, or in the least, therefore opposed or interrupted, nor is there any such strictnesse used for Malignants, and D linquents, and our profess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Adversaries to take it, many of them are &amp; have bin dismissed without it; yet not a man now in the House must escape it, although his conscience scruple it, &amp; his judgment doth not ap<g ref="char:EOLhyphen"/>prove it, a Mysterie! a miserie!</p>
+            <p>The end (if I mistake not) of the Peoples assembling of a Parliament, is principally, and primarily, to receive their Petitions, to heare
+<pb n="4" facs="tcp:36593:5"/> hear their complaints, and to redresse their grievances, to secure the good and wholsome Lawes, to abolish the bad and impertinent, and instead thereof to provide and make new for the peoples further and future wel<g ref="char:EOLhyphen"/>fare, to execute justice and judgment, to deliver the unjustly imprisoned, and to relieve the oppressed, and not to spend their daies and studies upon questions fruitless and unprofitable for the Common-wealth, in devising and prescribing to themselves (like some lawlesse Lords of Mannors) boundlesse priviledges, which differ in nothing from exorbitant Preroga<g ref="char:EOLhyphen"/>tives, in forging and framing of Oathes and Covenants (which savour more of policy then piety) for gins and snare<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in making parties, and dis<g ref="char:EOLhyphen"/>puting of particular interests, in exhausting the people of great sums, and when they are gathered, in disposing of them among themselves.</p>
+            <p>But these men, now having by the new modell of an <hi>Independent</hi> Ar<g ref="char:EOLhyphen"/>my (as they and their gracious creatures are pleased to terme it, unto which under God they doe owe their lives and beings, yea, and their best endeavours, for the safety they now enjoy, who before, for fear, sate (as I may say) like a company of wild fowle, upon the watch and the wing, expecting daily when to fly) subdued their so much feared adversa<g ref="char:EOLhyphen"/>ry, are labouring strenuously to make a new modelled Parliament out of the old mold, that so they may advance their own power to pull downe their first and best Assistants; destroy the Liberty of the people, and esta<g ref="char:EOLhyphen"/>blish that by Law for their owne advantage, whereunto (they know) those faithful ones wil not concur nor consent, and the which they could never have had the opportunity to have done, had they not been behold<g ref="char:EOLhyphen"/>ing unto them for the use of their sword. O honourable reward! O rare gratitude!</p>
+            <p>Happily it will be said, I am too bold: I believe indeed, I am more bold then welcome, but it matters not, for my boldnesse is only conversant a<g ref="char:EOLhyphen"/>bout that which concerns me, and all the Freemen of <hi>England:</hi> Truth suffers too much by simple silence: let them be quiet slaves that love to be so, I do not, &amp; if this ill kind of men wil not hear of their own evil doings let them do none, if they desire not to be reproved, let them do nothing that is reprovable, and then they may with confidence look up. None but a gauled horse will kick when he is troubled; nay, oftentimes before he is touched: and that Master truly deserves to be deceived and abused by his servants, that knowes and sees they deceive and abuse him, and will nei<g ref="char:EOLhyphen"/>ther reprove nor question them.</p>
+            <p>The power is ours and not theirs, and we lent it not them to destroy us; I am confident the meanest Rustick in the Kingdom, did not intend it, nor can any such men think, that plaine Clubs and clouted shooes will be so contented: the people are not so stupid, but do expect a more exact ac<g ref="char:EOLhyphen"/>compt
+<pb n="5" facs="tcp:36593:5"/> and ample satisfaction, then they have yet had, for their pro<g ref="char:EOLhyphen"/>fuse expence of wealth and blood, yea and better fruits then they have yet received after full six years session, or els assuredly they will never be pleased nor appeased. And it is dangerous raising the great waters, for they are not so easily allayed.</p>
+            <p>The City petitioned with their former Remonstrance, that not an ho<g ref="char:EOLhyphen"/>nest man in the Kingdome, who was not of their judgement, (for such was the expression in effect) might have any place of trust or office in the Common-wealth. And doth not this present practice of some cer<g ref="char:EOLhyphen"/>tain men in the House of Commons, intend as much both in Parliament, and Kingdome? for none shall be accounted worthy (by their good will) to sit among them unlesse he take the Covenant, be of their mind, sing their note, and subject their judgements to their crooked wills, and their persons to their illegall, irregular Ordinances and Orders. O just Powers! O pure priviledges!</p>
+            <p>Yeeld this, and yeeld all: lay downe the Bucklers here, and give them the field. Why do we therefore sit musing? let us up and be do<g ref="char:EOLhyphen"/>ing, for if now, we will neither heare nor see, we shall suddenly feele, ond that to our sorrow and shame, why then doe we sit still, untill our Liberties be betrayed, and wee and our posterities inslaved? Let us therefore demand a reason of this, and of all other their illegall and un<g ref="char:EOLhyphen"/>just practices and proceedings, and let us see and know what matter of fact or just cause of exception, they have to charge upon any, who are justly chosen, before they do suspend or exclude them from their Coun<g ref="char:EOLhyphen"/>cels and Assembly. And if they doe refuse to do us justice, maintaine our Liberties, and to yeeld us redresse according to our distresses, and the duty of their places, let u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> declaime against them, and disclaime them, remonstrate, and renounce all their Ordinances and Orders, doe as the London Butchers have done, and yeeld them no more obedience, assist<g ref="char:EOLhyphen"/>ance or contribution. For why should we stand still, to be bound in our own garters? observe and preserve them, to be inthrauled by our own power?</p>
+            <p>And for the more manifestation, that it is a plot, and practice, by the vile of the House and their confederates, against the faithful of the House &amp; their friends, by those that would sell, and betray us and our Liberties, &amp; deliver us up for slaves, to serve their owne unrighteous ends, against those that would preserve us and our Liberties, and faithfully discharge their trust and duty to their Countreys, I will here by the way, propound a few Quaeries.</p>
+            <p n="1">1. Whether the taking of the <hi>Scotch</hi> 400000.l. Covenant bee essen<g ref="char:EOLhyphen"/>tiall to an English Parliament? If not: Why then must not hee be
+<pb facs="tcp:36593:6"/> thought fit to sit in this Parliament, that taketh it not, there being no o<g ref="char:EOLhyphen"/>ther just exception agai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st him?</p>
+            <p n="2">2. Whether it be no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> contrary to the Law of GOD, and of this Na<g ref="char:EOLhyphen"/>tion to ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rude an Oath upon any man contrary to his conscience? if yea. Why then doe they who are chosen to preserve the known Lawes, and the Peoples immunities, and that have volun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arily sworne therunto, impose Oathes and Covenants wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h violence, and those new and strange ones, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ubious, and mysterious upon the Freemen of <hi>England,</hi> especially on their own Members? and are not these thus first in perjury them<g ref="char:EOLhyphen"/>selves?</p>
+            <p n="3">3. Whether this practice be not in its own nature, and intent answe<g ref="char:EOLhyphen"/>rable to that point of the Cities former Petition and Remonstrance, wherein they pray that none disaffected to the Presbyterian Govern<g ref="char:EOLhyphen"/>ment &amp;c. may be employed in any place of publike trust? If it bee, (as indeed they are as like, as ever were two twins, yea, as if they were both spit out of one mouth) whether this designe not the same in its nature &amp; end, with that of the Cities former Petition and Remonstrance, and of as (if not a more) dangerous consequence?</p>
+            <p n="4">4. Whether it be not direc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly against the native rights and immunities of all the free born of this Nation, to suspend and expell, without just cause, by a new devised Engin of their own, any Member of Parliament justly and freely chosen by the people, and by them intrusted and sent to Negotiate for their welfare in publlke?</p>
+            <p n="5">5. And lastly, notwithstanding all their many (feigned) Fasts and Hu<g ref="char:EOLhyphen"/>miliation, Oathes, Vowes, Promises, Pretences and Protestations, what one just, or good deed, have these sort of men done, or suffered to be done for the Publique, since that Evening the King departed. <hi>Dic quaeso, &amp; mi<g ref="char:EOLhyphen"/>hi eris alter Apollo.</hi> The People cry: <hi>None:</hi> and let them shew if they can.</p>
+            <p>The pooore oppressed prisoners for debt, have petitioned them above these five years, only for redresse according to <hi>Magna Charta,</hi> and there are at this instant above 300. copies thereof delivered to the Members of the House of Commons to that purpose, and yet cannot these perishing prisoners have their Petition either read, heard, or granted, nor receive any kind of redresse, but still lye and languish in their miseries under the hands of cruell creditors, and extorting Goalers, who use them more like villaines then Christians, or free-born men of <hi>England.</hi>
+            </p>
+            <p>Were it to passe an Ordinance for the paying this, or that man a<g ref="char:EOLhyphen"/>mong themselves, his arreares, who happily was never out one pennie, but hath rather repaired a broken estate, (as it is well known many of
+<pb facs="tcp:36593:6"/> them have) by the service of the State, they would presently order a day to di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>patch and passe it.</p>
+            <p>A blessed Generation, and mighty and the hopes, which this long diseased, and distempered Nation ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, of recovering by them.</p>
+            <p>Now heare O heavens, and hearken O earth, and judge, all ye Na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of the ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, between the free Commons of <hi>England,</hi> and this their <hi>deare Parliament.</hi>
+            </p>
+            <q>Vertamur in Syllam, Cupientes vitare Charibdem.</q>
+            <p>By seeking to avoid one Tyrant, we are likely to fall into the hands of many.</p>
+            <p>This sort of men, have already by this device, caused Major <hi>Harri<g ref="char:EOLhyphen"/>son</hi> (a la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e chosen Member) to leave the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use, and though an approved, godly man, occasioned him to go into <hi>Ireland,</hi> for otherwise, be cause his conscience could not admit of the Covenant, they would haue suspended or compelled, and others that stay, being unwilling to leave there places, will be so insnared, as that they can neither be free in there Councels, Speech, or Votes. And what then I pray is this Parliament? An <hi>English</hi> one, or a <hi>French?</hi> or not rather a <hi>Nor<g ref="char:EOLhyphen"/>man?</hi>
+            </p>
+            <p>Wherefore, good Countrey-men; out, and looke about, for the threed is very fine spunn: the distinction is very subtill, and can hardly be discerned, it is as little in pronuncia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, (pre ence I mean<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) as be<g ref="char:EOLhyphen"/>tween <hi>Sibboleth,</hi> and <hi>Shibb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leth,</hi> they have the voice of <hi>Iacob,</hi> but the hands of <hi>Esau:</hi> Howso v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Apostles rule is sure, ye shall k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow them by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir works: And if my sig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t faile no, there is one <hi>Stapleton</hi> (an <hi>Hoth mite</hi>) and one <hi>Hollis</hi> (a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Edomite</hi>) that hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a chief<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hand in this plot: Long have they b en hammeri g of it, a d now t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey have found a time and opertunity to act it, others I could name, their fel<g ref="char:EOLhyphen"/>low confederates trai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors to their Countrey, and enemies <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the funda<g ref="char:EOLhyphen"/>mentall Lawes, and publick Liberties, Lambs they are in sh w, Foxes in Councel, and destructive in practice and action. Great Heads and Poli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icians men call them; w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pretended R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ason, would make you beleeve that Rats-bane is as good for you as a Cordial; argue ye out of your Christian name, and can propou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d you a necessity for plain deceip<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and knavery. A company of cunning, crafty, deceitfull wor<g ref="char:EOLhyphen"/>kers. Observe and consi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er them, y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> too o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ten deliver your mindes and purposes into S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kes bosom, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow make ye bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good use of this warning peece, and ye may happily before long, have a list of them, &amp;
+<pb n="8" facs="tcp:36593:7"/> of their good actions, that so ye may see, what jugglers and Impostors yee have intrusted and imployed; and accordingly call them to an ac<g ref="char:EOLhyphen"/>compt, and provide for your selves a remedy against the like abuse, and treachery.</p>
+            <p>And now they have voted the disbanding of the Army, let us be<g ref="char:EOLhyphen"/>ware least they vote away all our Rights and Liberties, as in divers particulars they have begun, if we will but sit still and let them go on.</p>
+            <p>The Authors of this good worke, are the same, which doe so violent<g ref="char:EOLhyphen"/>ly presse the Covenant, ye may (as I tell you, plainly know them if ye will but marke them) and I doubt not but the same <hi>Stapleton</hi> and <hi>Hollis</hi> can both name and number unto you the men, both principall and complices, long have they travelled both in heart and braine with this admirable designe, but could never untill now finde a season to bring it forth. They streigned to have had this Army disbanded, even while there was an Army of another Nation lodging within our bow<g ref="char:EOLhyphen"/>els; but then it was so unseasonable, that even the weaker sort and such among them of more imperfect sight, (who like Children are led by the glow-worme light of anothers deceiptfull reason, or that like unto men, who having lost their way in the night, doe follow an <hi>Ignis fatuus</hi> for a true guide) were against it, and so then <hi>it could not be car<g ref="char:EOLhyphen"/>ried.</hi>
+            </p>
+            <p>But the <hi>Scots</hi> are now no sooner gone, have sorce set up their hor<g ref="char:EOLhyphen"/>ses at home, and loosened their Swords from their Loynes, but this in<g ref="char:EOLhyphen"/>offensive Army is to be disbanded, and why? are the people so well setled? are things so wel reformed and rectified, and are the people so fully satisfied? is not every man discontented, and distasting the unjust proceedings of the Parliament? I wish there were no cause for it: but who seeth not that there is more wickednesse and mischiefe wrought now by Authority, and more plots and devices daily framed and acted to spoile us of our Liberties, and rob us of our Lawes, (the bulwarke to secure every mans right) then ever was yet unto this day by open e<g ref="char:EOLhyphen"/>nemies.</p>
+            <p>There was no such haste or importunity to have Major Generall <hi>Mas<g ref="char:EOLhyphen"/>sies</hi> Brigade dissolved, although multitudes of complaints came against it, and that there was of a long time no use of it: yet this must not stay, nor be demurred on? And I could wish that ye should in some degree, see the working of this Mystery.</p>
+            <p>The same men that have produced this work, did first contrive it, and may justly be suspected to deliver the plat-forme thereof to the City, who gave it forme, and cast it into a Petition and Remonstrance, and then presented it at an appointed time to the Parliament, having the
+<pb n="9" facs="tcp:36593:7"/> Lords sure and wholly, and assurance (yee may conceive) of countenance in the House of Commons, and note that the acceptance, which this their last Petition and Remonstrance found, was answerable to this present effect, and that the House hath ever since acted according to the heads of it, for hence, under pretence of satisfying the Citizens in their Petition, the Covenant must be urged, an Order made against, (edifying each other in the Gospell, teaching and interpreting the Scriptures, by any other, then Canonicals, (as if the gifts of the Spirit of God, were onely intailed upon a Black-coat, Hye for Bishops) that none should preach the Word of God, but such as had Ordination from the Pope, for such is that (by derivation) which they do mean and enjoyn; and now they have answe<g ref="char:EOLhyphen"/>red another point of the same Petition, to wit, in voting the disbanding of this Army. But is not the whole Kingdome as worthy of satisfaction, as the proud Malignant, illegall Mayor of <hi>London,</hi> and his like Brethren the Aldermen, and a few illegall Common-Councell-men?</p>
+            <p>There was a Petition presented the other week from the Counties of <hi>Hertford</hi> and <hi>Buckingham,</hi> for Justice and confirmation of liberty, and many other excellent benefits for the Publike, but that cannot be heard, nor have an answer, although they have been attended by some of the Counties ever since, yea some would have had it cast out of the House; such men doe most justly deserve to be themselves cast out as dirt, or as Salt which hath lost its savour: Shall we be prescribed by them what to Petition for? Must we present our grievances, as shall please them, or as we feel their pulse?</p>
+            <p>Ye see and hear now Countrey-men, and are by this like to feel of what spirit these men are, and what comfortable redresse you are like to have, if yee will be content with their courses: away with such men from the Earth.</p>
+            <p>These men are like <hi>Strafford</hi> and <hi>Canterbury,</hi> birds of the Lords feathers, (by their promotion or recommendation) and they look, if they can but make us slaves, that they might be all Lorded with their Lordships; but I had rather see the heads of all Traytors to the free-commonalty of <hi>England</hi> divided from their shoulders.</p>
+            <p>It was very requisite, and wisely done, that they should vote down this Army, because it is the onely block, and stumbling-stone to their designe of Presbytery and Lordly predominancy, and that it may not be a refuge pillar for the oppressed and distressed Commons of <hi>England</hi> whereon to leane, in claiming of justice, and of their just rights and liberties; down it must be, but no mention of reward for it, nor of raising moneyes to pay it;
+<pb n="10" facs="tcp:36593:8"/> but now they have done what they did require, what should they do with them but turn them out of doores: so having done with the rod, all that remains for them now, is, to devise how to cast it into the fire.</p>
+            <p>The next act, will be a re-establishing the King on his Throne, in case he shal but establish the many-headed monster of Presbytery, that so the Lords and the Lairds here (as the Scotch-man saith) that is, the chief man of every Town and Parish, may with the domineering Presbytery, rule the rost, and tyrannize over the common People here, their estates and liberties, as the good Lords and Lairds, with their Presbytery, do over the poor ignorant Lord-ridden People there. And here will be a confirmation of that pre<g ref="char:EOLhyphen"/>tended happy union between both Kingdoms. And thus both Nations will be both one, and alike equall in slavery and thraldome, that the one may not mock the other any longer.</p>
+            <p>Is there never a <hi>Roman</hi> spirit left, that dare interpose, and protest for his Countrey, against these destructive Councells, and Votes for <hi>Norman</hi> Bondage? I am confident it would be a gratefull act, and would not want owners: yet for my part, I take, not such their Votes for Decrees, like those of the <hi>Medes</hi> and <hi>Persians,</hi> unalterable; nor their illegall Ordinances for binding Lawes. And I hope I am not alone in this judgement; for we are not bound to obey to our own destruction: this principle, the safety of the people to be the soveraigne Law, is as true and as usefull for the people as for the Parliament. They are not chosen to make themselves our Lords, and us their slaves; but to free us from all exorbitant powers and oppressi<g ref="char:EOLhyphen"/>ons, and to establish unto us our native Rights and Immunities, not to pretend the removall of a few old oppressors and oppressions, and to in<g ref="char:EOLhyphen"/>troduce many new ones in their stead, like the Tinker that mends one hole and makes two.</p>
+            <p>Now deare Countrimen, lay your hands upon your hearts, and if ye be willing after all, to become slaves to your fellowes and servants, sit still and be carelesse, and keep your selves warme by your fires, and take a pipe or two of Tobacco. But if ye be of my minde, and on my side, rouze up your spirits, and shake off this carelesse security; come, and boldly call your own servants to an account, and demand your own of them, with the ad<g ref="char:EOLhyphen"/>vantage, know what improvement they have made for your good, of that talent of power and priviledge wherewith you have intrusted them, for the space of full six yeares, and do not at the last, like <hi>Issachars</hi> Asse, croutch down between two burdens; insupportable Presbytery, and in<g ref="char:EOLhyphen"/>tolerable Lordship. Let these men either forthwith redresse your grievan<g ref="char:EOLhyphen"/>ces, and ratifie your native rights and liberties to you, according to their
+<pb n="11" facs="tcp:36593:8"/> Oaths, and end of their Election; or els remonstrate to the world, and renounce them, and restrain the power within its proper fountain.</p>
+            <p>The best end of the Staffe is yet in our own hand; if we have but hearts to make use of it to our best advantage, which is to preserve and secure our selves and posterity, lives, estates, and liberties, from irrevocable and inextricable vassallage and thraldome.</p>
+            <p>One caution note good Countrimen, and I have done, and will leave all to your consideration. May we not still feare, in case this Army be disbanded, (the which let us pray and endeavour to preserve, if we desire either safety or liberty) that unlesse we will condescend to the <hi>Scots</hi> (whose Commissioners lie here to negotiate) in things relative to the King and Church, for manner and forme, nay in every respect, that we shall be threatened againe with the Scotch blade. And who knoweth whether part of their late departed Army, may not (under the notion of opposing the Rebell <hi>Montrosse</hi> in the North of that Kingdome) be reserved in rea<g ref="char:EOLhyphen"/>dinesse, to menace, or re-invade us, in case we come not up to their pun<g ref="char:EOLhyphen"/>ctilioes?</p>
+            <p>I hope better, though I feare the worse; for who knoweth what a day may bring forth? It is good to foresee what may be, and to provide for the worst, although at present they do appeare like some clouds, which carrie storms, far removed, and not likely to fall upon our heads; yet cannot I dis<g ref="char:EOLhyphen"/>cern our skie to be so cleare, as that we may discard all feare: True it is, that the clouds are somwhat broken and disperst, but do ye know how soon the wind may turn North, and bring together again, to the renew<g ref="char:EOLhyphen"/>ing the storm upon us? In my judgement the weather-cock of our State looks that way; and he is insensible, that feeleth not a Northern ayre in our Climate. And againe, have not the Malignants, and revenge-desiring Delinquents, an advantage when this Army is dissolved, to raise tumults and stirres, and by violence (as they have done heretofore) obtrude de<g ref="char:EOLhyphen"/>structive Petitions, and inforce the Parliament to grant them, to the utter ruine both of Parliament and Kingdom? And what publike strength then is there to suppresse them? The Trained Bands of <hi>London:</hi> like to like, as the Devill said, when he danced with the Collier.</p>
+            <p>Nor will they only take away that faithfull, unparallel'd, well-govern'd Army, which hath (under God) preserved you, and so leave you and your li<g ref="char:EOLhyphen"/>berties open to the destructive Acts and Councells of your adversaries; but will also appoint and set over you, in the others stead, an irreligious ma<g ref="char:EOLhyphen"/>lignant Army of desperate wicked men (such as those of Major Generall <hi>Masseys</hi> late Brigade) to awe and curbe you, so that unlesse ye will
+<pb n="12" facs="tcp:36593:9"/> conforme to the indirect Directory, make your confession to the Priests; after the manner of the Papists, and professe the new-devised Confession of Faith, a long-studied Presbyterian Creed, such as our Fathers never knew nor believed, ye shall be plundered: Thus ye shall have a Religion established by the Sword, but not a Reformation according to the Word; the old <hi>Essexian-Designe:</hi> but he that took away the Head thereof (as with a whirle-wind) when his heart was full swolne with despight and pride, can as easily remove the instruments which are behind. In the mean time, it is well acted by <hi>Phil.</hi> the Jew, <hi>Jack</hi> and <hi>Wil.</hi> of <hi>Wales,</hi> and the West-Countrey <hi>Dennis. Gallant Lads:</hi> brave <hi>Cards and well packt,</hi> they do never deale, but there's a <hi>Knave</hi> in the stock.</p>
+            <p>And for the better ordering of this designe, the same party had deter<g ref="char:EOLhyphen"/>mined among themselves, to have put out his Excellency Sir <hi>Thomas Fairfax,</hi> as a man no longer worthy to be trusted, and to have put in (as I have heard) one Colonell <hi>Graves,</hi> one of the least in account for vertue and goodnesse, of all Sir <hi>Thomas</hi> his Commanders; a man indeed of no repute, either for piety or good practice; whose men were more like <hi>Gorings</hi> damning crew, then Parliament Souldiers: and usually like Com<g ref="char:EOLhyphen"/>mander, like Souldier.</p>
+            <p>But after a long debate in the House on Friday the fifth of <hi>March,</hi> as if they had never known Sir <hi>Thomas,</hi> nor had any experiment of his ability or fidelity, it was with great difficulty carried by a few more Votes, that he should command in chief over their new intended Army, yet they are resolved to choose him his Officers, as if he did not know now, as well as formerly, what men were fittest to be intrusted under him: and it must be disputed also, whether any but such as have taken the Covenant (the pre<g ref="char:EOLhyphen"/>cious Covenant) shall be Commanders there or no, and why I pray, have not Sir <hi>Thomas</hi> his Commanders, who never took the Covenant, appro<g ref="char:EOLhyphen"/>ved themselves more faithfull, and done the Kingdome more good ser<g ref="char:EOLhyphen"/>vice, then most ever did that took it? My opinion is, that man is more to be trusted, that refuseth the Covenant for conscience sake, then he that takes it (as the great Masters of the Assembly presse it) for policy and ad<g ref="char:EOLhyphen"/>vantage sake. Oh but this is a true Touch-stone to discover him that is contrary to their minde and designe!</p>
+            <p>And although they missed of their purpose, in voting away Sir <hi>Thomas</hi> himselfe, they have voted away 8400 of his Foot, and foure Regiments of his horse for <hi>Ireland,</hi> a specious shew: But <hi>Anguis latet sub herba,</hi> why were not <hi>Massies</hi> Horse (which might better have been spared, and were much more fit for the temper of that corrupted Climate) sent thither?
+<pb n="13" facs="tcp:36593:9"/> Or why are they not now sought out and imployed that way? There are enough of them and such others very well at leisure, and would be glad of the service upon reasonable termes; you may heare of them at every Ta<g ref="char:EOLhyphen"/>verne and Alehouse, if not somtime in a worse place. Without doubt there might as many spare-Officers and Souldiers be gathered up about the two Cities, and the Garrisons dismantled and to be dismantled, and in other parts, as would make a sufficient Army for <hi>Ireland,</hi> without taking any from Sir <hi>Thomas:</hi> Col. <hi>Poyntz</hi> I believe could spare some, and all of them such as they may better trust, free-Covenanters, men of their own stamp and judgment: I conceive it no policy for them to trust any Independents in that desperate Kingdome, men whom they do so much distrust here at home, where comparatively there is no danger.</p>
+            <p>And why should this party intrust the same people in a Kingdome of greatest danger, and that in matters of highest nature, without swearing to the Covenant, whom they will not trust here at home, with a beggarly Headborough or petty Constables place without it? O admirable confi<g ref="char:EOLhyphen"/>dence! But this is a paradox, and I will unfold it.</p>
+            <p>Is it not to pack away this approved Army, which stands so much in the way, for <hi>Ireland,</hi> against the Rebells, as <hi>David</hi> did faithfull <hi>Ʋriah,</hi> to <hi>Rabbah,</hi> against the <hi>Ammonites,</hi> and then to raise one new out of the dis<g ref="char:EOLhyphen"/>banded crew of desperate men, reserved and left behind to act their de<g ref="char:EOLhyphen"/>signe: for the Devill and his servants are best for those to make use of, that oppose the Kingdome of Jesus Christ. And well found out, grave <hi>Sy<g ref="char:EOLhyphen"/>nod, pious Assembly;</hi> for such as are your principles, such are your meanes and Instruments. And saving your Reverence, what have ye done these foure yeares, plaid at cards, or onely studied where ye might have the best patterne of Church-government to serve your owne turne? Ye are but the <hi>Scots</hi> Apes; for ye have not studied a Religion for us out of Gods Word, but ye have borrowed us one out of <hi>Scotland,</hi> as wicked King <hi>Ahaz</hi> brought a patterne of the Altar from <hi>Damascus</hi> to <hi>Ierusa<g ref="char:EOLhyphen"/>lem:</hi> And now it is come to the taste, it doth not relish halfe so well as a Soland Goose; it goeth downe, ye see, but like chopt hay. Truly the Par<g ref="char:EOLhyphen"/>liament might have sent for the copie themselves, and so have saved you a labour, and the Countrey all the charges of so long feeding such a company of Abbey-Lubbers. But to proceed, I hope this gallant Army, though it be thus voted, will not be thereby blasted. If the Parliament are this Nations servants, so are they. The Parliament were assem<g ref="char:EOLhyphen"/>bled, and solemnly vowed before God and all the world, to do judge<g ref="char:EOLhyphen"/>ment and justice, the which yet they never did, and to maintaine and
+<pb n="14" facs="tcp:36593:10"/> establish (the which I believe if they can choose, they never will) the rights and liberties of the Commons of <hi>England,</hi> and this Army hath fought and redeemed them, and, as I may say, brought them to the Parliaments hands to confirme and establish, the which the Parliament ought to do, and, as I conceive, this Army may justly chal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enge, and have just cause to see done; for they have equall interest with the Parliament in them, and have adven<g ref="char:EOLhyphen"/>tured much more for them: and as the one hath the word to vote, so hath the other the sword to act.</p>
+            <p>And therefore sure they will be so wise, for so it is expected, as not to undertake another Warre in a strange Kingdome, as desperate, and more dangerous then the former here, for these ingratefull mens pleasures, be<g ref="char:EOLhyphen"/>fore they see the conditions performed to themselves, and fellow-Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> in this their native Countrey; the which these men that have now voted them hence, have so frequently and so fearefully sworne and promised them before all the world (to wit) the establishing of the Lawes, and of the birthright and liberty of this Nation, the which this Army, under God, hath purchased by their sword, for them<g ref="char:EOLhyphen"/>selves, their posterity, and for all the free-borne people of this Land; and if they see not these things done before they goe, if they go, let them be assured they shall never have them done after: and if they be not made good unto them in this their native countrey, let them never expect per<g ref="char:EOLhyphen"/>formance of them in another: No, if this party can but get this Army to bee a meanes for the pulling downe their enemies for them there, as they have been here; they hope by that time, few of this Army, or of their friends may survive, to exact any recompence, or fulfilling of Oaths and promises of them, but will leave that to them and their deare Brethren, the religious <hi>Scots,</hi> who never brake oath, to performe after their death; and so indeed this Covenanting party may happily fulfill one particular of their grand Solemne League and Covenant, in setling a uni<g ref="char:EOLhyphen"/>formity in Religion (when there are none to hinder them) in the three Kingdomes.</p>
+            <p>So, it is better the Army should first see the fruits of their travails and perills past here, otherwise I conceive they have no cause, and as little en<g ref="char:EOLhyphen"/>couragement to make new adventures for Trap-makers, and leave their native Countrey, their wives, children and friends, to the cruell mer<g ref="char:EOLhyphen"/>cies of their haters and persecuters. Let the covenanting party make use of such as they account their own, trusty blades, that will, like themselves, not onely swallow the Covenant, but the Kingdome too, if we will but stand still and let them doe what they will, or else let them begin againe and
+<pb n="15" facs="tcp:36593:10"/> presse: but I doubt they will not find such a simple parcell againe in both Kingdomes, as these poore despised, dispighted <hi>Independents,</hi> who came in willingly to their helpe, have borne the heat of the day, and have been (under God) their chiefe preservers, who have been more friendly and faithfull to them, then any of their Heathenish Covenanters, and yet now at last their reward for all, must be only a kick out of doors.</p>
+            <p>But seeing these devout Covenanters have so ill rewarded this Army and their friends who under God were their Guardians before they had either Army or Guard, I hope the Army will not be so unwise, but first to see their own Countrey, friends, and Families secured here in <hi>England,</hi> before they stirre one foot, or undertake for <hi>Ireland, Proximus quisque sibi,</hi> every man is nearest to himselfe, and as it hath been shewed, there are spare helps enough besides, let them therefore first send an Army of their owne Tribes thither, and see if they will doe as much for them there, as this same Army hath done here. Is it not better Countrey-men and friends, for this Army to stay at home and hold their Weapons in their hands, till they see their and our Birthrights, Priviledges, and Liberties, for which both they and we have sought and adventured our lives and estates, setled and secured here for themselves and us, their and our wives and families, posterities, and estates? and then if there be cause, and they willing, they may safely and with comfort goe and help their Neigh<g ref="char:EOLhyphen"/>bours: in the meane time, let them know, it is not wisdome for them to goe helpe to reale up another mans house, and leave their own to lie ruined and wasted, though charity be diffusive, yet it begins at home.</p>
+            <p>And although this Army hath both ploughed and sowed, and made way for a fruitfull crop, yet there be others (their and our enemies) that are ready, if this Army should either dissolve or depart, to enter into their harvest, and convert the whole advantage to their owne private uses, the Army hath fitted the wax, and if they once turne but their backs, this par<g ref="char:EOLhyphen"/>ty Covenanters, will set to what seale they please, the which they think (like the <hi>Medes</hi> and <hi>Persians</hi>) cannot be altered, and it is more apparant, it will rather prove the image of the Beast, then the durable Statute of Truth. But forasmuch as they build on Sands, and dawbe with untem<g ref="char:EOLhyphen"/>pered mortar, there is no question but their Clay and Iron will never in<g ref="char:EOLhyphen"/>corporate, nor cleave together, more then <hi>Nebuchadnezzars</hi> Image; and certainly such men cannot long prosper, more then <hi>Zimri</hi> did, that killed his Master.</p>
+            <p>These and such like corrupt and deceiptfull practices, (deare Countrey<g ref="char:EOLhyphen"/>men) are the fruits of viperous Councels produced by traiterous spirits,
+<pb n="16" facs="tcp:36593:11"/> who for our Religion have already contracted with the Scots, as wicked King <hi>Ahas</hi> did with <hi>Tiglag Pileser</hi> concerning the Altar at <hi>Damascus:</hi> and now they endeavour by all indirect meanes to cheat and spoile us of our Birthrights, that so by our ruine and grinding the faces of the poor, they may raise to themselves a stock of predominancy and preroga<g ref="char:EOLhyphen"/>tive over us, as witness their illegall exercise, and daily practice of injustice.</p>
+            <p>Shall we alwaies be troubled with this Generation of Vipers, who like <hi>Janus,</hi> look two wayes, and carry two faces under one hood, that speake right faire to our faces, but devise mischiefe against us in their hearts, and vent them in their Councels, that love to be called Patrons, Patrons, but (if they be not prevented) will prove no better to us, then Morter-Peeces. They had better speak plaine English, and make an Or<g ref="char:EOLhyphen"/>dinance in plaine termes for the expelling and persecuting of all honest and good men, abolishing all Law and Justice, the two preservators of liberty and propriety, as to do it thus in pharasaicall Characters, for they cannot draw a net so close, but a man may see through it, nor dig so deep to hide their wicked Councells, but the Alseeing eye of heaven will dis<g ref="char:EOLhyphen"/>cover them. Thus, sweet Countrey-men, and free fellow-Commoners of <hi>England,</hi> have I in some part discovered unto you the secret working of this treacherous Mystery, the very substance of this plot, and the end of it. And now if ye love slavery, favour it, assist and promote it. O<g ref="char:EOLhyphen"/>therwise be warned. Rouse up your spirits, and secure your selves, and your Birth-rights, for which ye have spent so much blood, and paid so deare a price, oppose the proceedings, know a reason of these preposte<g ref="char:EOLhyphen"/>rous actions, vindicate your Power, and Priviledges, and cause those treacherous Machiavels, your false friends, and deceiptfull Servants to be brought forth and judged, that they may receive a reward according to their demerit.</p>
+            <p>All this considered (sweet Countrey-men) it is better for us to sing, O how happy were we in fore-seeing, then to cry when it is too late, had we wist.</p>
+            <p>And if ye be true <hi>Englishmen,</hi> and prize the liberties of your selves, and posterities, seeing the fetches and the falshoods of this ill kind of men, look in time to your selves, and to the weale of your native Countrey, and trust no longer to them, nor be any further deluded by them: Though they use never so much feigning and fleering, though they looke never so gravely and demurely, speak never so fairely, declare never so strongly, sweare never so devoutly, and fast never so frequently: yet I say in re<g ref="char:EOLhyphen"/>spect of the premisses do not trust them, nor wait any longer upon them;
+<pb n="17" facs="tcp:36593:11"/> But remember that our Country-man <hi>Adam</hi> After-wit, hath been too long my Lord Fore-Wits foole. Be taught therefore in time, before yee be taken; and let this I pray you prove a sufficient warning.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Frote capillata, post est, occasio calva.</hi>
+                  </l>
+                  <l>Take time by the forehead, and loose no opportunity,</l>
+               </lg>
+               <lg>
+                  <l>Free now or never. Slaves now and ever.</l>
+               </lg>
+            </q>
+            <p>And lastly (my friends) note this, that those men who have now voted, that none but such as have or shall take the Covenant, and conf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rm to the <hi>Presbyterian</hi>-Government, shall be Commander in the new intended Army, nor have the Command of any Garison that is to be kept within this Kingdome, (a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>beit the non Covenanters were the men that reduced them) will never (ye may be assured) in trust any with any place of Com<g ref="char:EOLhyphen"/>mand or Power (after the work is done) in another Kingdom, that will not take the said Covenant, and subscribe to the said <hi>Antichristian</hi>-Go<g ref="char:EOLhyphen"/>vernment. And why then should they fight any more to gaine promoti<g ref="char:EOLhyphen"/>on and power for others, to rule over themselves? Surely this very par<g ref="char:EOLhyphen"/>ticular should make all the well affected in the Land, to stand and seriou<g ref="char:EOLhyphen"/>sly to consider what is intended against thē, and not be so forward to set one foot further for this ingrate, ill Generation. Do they not see plots daily laid to insnare them, and every pulpit full of raylings, &amp; revilings, lyes, &amp; clamours against them? do they not heare themselvs in writings, and Sermons, already censured &amp; sentenc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to persecution, even to im<g ref="char:EOLhyphen"/>prisonment and dust? So that I am confident the Army and their Leaders should not long be in <hi>Ireland,</hi> before (to their great comforts and incou<g ref="char:EOLhyphen"/>ragement) they should heare some of their friends were executed, and multitudes of them imprisoned, in <hi>England.</hi>
+            </p>
+            <p>But if his Excelency Sir <hi>Thomas Fairfaxes</hi> Commission, be made (as the Earl of <hi>Essexes</hi> was) <hi>viz</hi> For the preservation of the Law &amp; Liberties of the Kingdom, and pro ection of his Majesties Subjects from violence and opression, then without controversy, it is his duty, and all theirs that are (in command) under him, and he and they have lawfull au<g ref="char:EOLhyphen"/>thority thereunto) to stand for the Law and Liberties of this Nation, and to defend the people from all tyranicall pressures and usurpations, for, for this very cause was he intrusted with the Sword: the which the Lord move his and their hearts seriously, now in season, to weigh and consider, for this is a day of trouble and rebuk, and of blasphemy: for
+<pb n="18" facs="tcp:36593:12"/> the child<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n are come to the birth, and there is no strength to bring forth. 2 <hi>Kings</hi> 19.8.</p>
+            <p>To pretermi what Mr. <hi>Byfield</hi> and Mr. <hi>Love</hi> formerly preached; what else but persecution did Mr. <hi>Vines</hi> in his Rabshaketh-like Sermon, mean at the mock-fast, for the suppression of heresies where there were none but (that which is most contrary to their Lord-like living) Inde<g ref="char:EOLhyphen"/>pendency principally spoken against, the which neither he, nor any tith<g ref="char:EOLhyphen"/>munging, antichristian Taskmaster of them all, can prove, or make forth by Gods word to be heresie, And if he will but truly interpret his then Text, 2 <hi>Pet.</hi> 1, 2, 3, he will find it doth more pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pably reprove him, and such as he is, (then any other) who run before they be sent, come not in by the dores, but creep in at the windowes, teaching for doctrine the traditions and received opinions of men, a doctrin which consenteth not to the words of our Lord Jesus Christ, and to the doctrin which is according to godlinesse; but is after their own corruptions, denying the Lord Jesus that bought them, by with-holding his Kingdome and set<g ref="char:EOLhyphen"/>ting up themselves and their own Kingdom, above him; f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llowing their own pernitious and destructive waies and councels, by reason whereof every one even abhorreth the dayly sacrifice, as in <hi>Elies</hi> dayes, and through their insatiable covetousnesse, and intolera<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e pride, they will make marchandize of the people if they be not prevented: Hath not this man <hi>Vines</hi> and many others of his well fed fellowes 2 or 3. Benefices or such like things (and those no poore ones) a peece? And yet these gredy dogs are not satisfied, no, they would get into their possession the whole inheritance of the Lord. The which God of his mercy prohibit, for the Parliament assists in it, but no wonder; for so did the builders of old, reject the cheif corner stone, to the destruction of themselves and their Republick; but upon all the glory shall be a defence. <hi>Isa,</hi> 4.5.</p>
+            <p>Now to draw this warning to a full period, take this following sum<g ref="char:EOLhyphen"/>mary of our present Calamities, and consider it seriously, consult, it ad<g ref="char:EOLhyphen"/>visedly, &amp; accordingly act eff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctually, for the timely prevention, and pre<g ref="char:EOLhyphen"/>servation of your selves, and your postereties, from insupportable bon<g ref="char:EOLhyphen"/>dage and thraldome.</p>
+            <div type="summary">
+               <pb facs="tcp:36593:12"/>
+               <p>BRethren and Fellow-Commons; God and the world knowes, that the well-affected party of this Kingdom, (discerned by their voluntary aid to the Parliament) having tryed all possible and faire meanes, as much as any people for number and power of any Kingdom or Nation ever did, by Prayers Assistance, Concurrence, Attendance, Peti<g ref="char:EOLhyphen"/>tions, Oblations Informations; and Discoveries, as well of Treasons, as of utter desolations, and percei<g ref="char:EOLhyphen"/>ving themselves now at last to be in a farr worse condition, both in number and power (there Lives and Estates, yea and precious time also being so far spent) then they were at the first, and besides, like to loose all, and scarcely to have (or leave) so much as their Lives, Lawes, or Liberties for a prey.</p>
+               <p>And seeing, by manifold examples of grievous ex<g ref="char:EOLhyphen"/>perience, that neither Petitions can be easily accep<g ref="char:EOLhyphen"/>ted, justice truly administred, the presses equally opened, the cryes of the poor heard, the teares of the oppressed considered, the sighes of the prisoners regarded the miseries of the Widdow and Fatherless pittied, nor scarcely any that are in distresse relieved but Lawes any way wrested, most of our freedoms restrained, Ordinances, protestations, Oathes and Covenants slighted, the hearts of all Estates, Kings, Parliament, priest and people obdur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, the wicked for the most part absolved, the just oftentimes con<g ref="char:EOLhyphen"/>demned and most of all in Authority perjured no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:36593:13"/> onely by breaking that solemn Oath, which them<g ref="char:EOLhyphen"/>selves did make and compelling others to take, but nevertheles, by persecuting those who make cō<g ref="char:EOLhyphen"/>science to keep it, even because they will not break it, In deep sad serious &amp; lamentable consideration of all these grievous proceedings, and as much by feeling the smart, as hearing, seeing, or knowing the verity thereof, chiefly the oppressions, taxations, Insurrections, Rebellions, Persecutions, Violences, Robberies, Sequestrations, &amp; Cumbustions, I with my poore one Talent, instead of him that hath Ten, out of a dutifull and consciencious love, tender and pittifull respect to my Nation now in this her great defection, and apparant dissolution, chiefly for the remnant thereof (who mourn in secret both for her great abominations sins dissolations, &amp; their own particular transgressions, &amp; who doutles are marked to escape the fury of Gods, fearfull indignation.)</p>
+               <p>Have used my best endeavours here both to shew the maladies and remedies of this sick swouning, bleeding, and dying Nation, that if God, hath not ordained it like Babel to sudden inevitable and utter destruction, it may yet be cured, and that (according to the Lords usual dealing, who in the midst of judg<g ref="char:EOLhyphen"/>ment remembreth mercy) a remnant may be reser<g ref="char:EOLhyphen"/>ved who in despight of Sathan, and all his Instru<g ref="char:EOLhyphen"/>ments may do justice &amp; judgment, to the praise of his glory, So shall the Mountaines bring peace to the people, &amp; the little Hils by righteousnes. Psal. 72.3.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
